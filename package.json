@@ -1,0 +1,25 @@
+{
+  "name": "upload-express-multer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MendoncaGabriel/upload-express-multer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MendoncaGabriel/upload-express-multer/issues"
+  },
+  "homepage": "https://github.com/MendoncaGabriel/upload-express-multer#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}
